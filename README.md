@@ -1,4 +1,5 @@
 # SAMR1T.github.io
-samrit's professional website
+samrit's professional website repo
 
-link: https://SAMR1T.github.io/
+check it out!
+https://SAMR1T.github.io/
